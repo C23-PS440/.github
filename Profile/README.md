@@ -8,7 +8,7 @@ Our team is developing an educational platform to help individuals learn about h
 - [M210DSX0372 - BARRA MALIK WIBOWO - Jenderal Soedirman University](https://github.com/barramalik7)
 - [M038DSX0102 - ROSYD PANJIE LARAS - Institute Technology Sepuluh Nopember](https://github.com/Panjiee)
 - [A207DSX4940 - IMANUEL AGUNG PRAJA ROMUTY - University of Jember](https://github.com/ImanuelRomuty)
-- [A138DSY2058 - CINDY DEVIANA ATMAKUSUMA - Atma Jaya Makassar](https://github.com/cyncindy)
+- [A138DSY2058 - CINDY DEVIANA ATMAKUSUMA - Atma Jaya Makassar University](https://github.com/cyncindy)
 - [C243DSX1612 - JERRY JOHNSON - Mikroskil University](https://github.com/jerryjohnsonn)
 - [C125DKY4793 - YUCHANA ZAKIYYATUNNISA - Syarif Hidayatullah State Islamic University](https://github.com/yuchanazkyy)
 
